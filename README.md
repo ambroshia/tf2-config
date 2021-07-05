@@ -1,6 +1,8 @@
 # tf2-config
 
-my configuration files for Team Fortress 2. Contains various files, scripts, as well as visual and audio modifications
+My configuration files for Team Fortress 2. Contains various files, scripts, as well as visual and audio modifications.
+
+This version uses Comanglia's graphics config. For a version that uses the more up-to-date mastercomfig, see [tf2-config-mc](https://github.com/ambroshia/tf2-config-mc).
 
 ## usage instructions
 
